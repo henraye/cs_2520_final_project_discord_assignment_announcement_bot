@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 from discord import Intents, Client, Message
 from responses import get_response
-
+#Reference from: https://youtu.be/UYJDKSah-Ww?si=JpRQE6e1kJjoNgQS
 
 #Step 0: Load token from .env file(To use, add your own)
 load_dotenv()
