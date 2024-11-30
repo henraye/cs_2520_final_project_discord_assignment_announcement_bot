@@ -9,9 +9,9 @@ This project is a Discord bot that uses the Discord API and OpenAI's GPT model t
 Follow these steps to set up and run the project:
 
 ### 1️⃣ Clone the Repository
-```bash
-git clone [https://github.com/henraye/cs_2520_final_project_discord_assignment_announcement_bot/tree/main]
-cd [cs_2520_final_project_discord_assignment_announcement_bot]
+```
+git clone https://github.com/henraye/cs_2520_final_project_discord_assignment_announcement_bot/tree/main
+cd cs_2520_final_project_discord_assignment_announcement_bot
 ```
 ### 2️⃣ Set up your virtual Environment
 On Windows
