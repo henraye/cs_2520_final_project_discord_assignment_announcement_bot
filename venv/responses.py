@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 #Add your own OpenAI key to use
-api_key = "REDACTED"
+api_key = "redacted"
 client = OpenAI(api_key=api_key)
 
 def get_response(lowered: str) -> str:
